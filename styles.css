@@ -22,19 +22,19 @@ section {
 }
 
 .one {
-  background-color: bisque;
+  background-color: #373636;
 }
 
 .two {
-  background-color: blue;
+  background-color: #373636;
 }
 
 .three {
-  background-color: chocolate;
+  background-color: #373636;
 }
 
 .four {
-  background-color: aquamarine;
+  background-color: #373636;
 }
 
 h1 {
@@ -43,5 +43,5 @@ h1 {
 }
  .navbar {
     height: 7vh;
-
+    background-color: #373636;
  }
