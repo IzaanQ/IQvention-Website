@@ -138,3 +138,47 @@ section {
     font-size: 2vh;
     color: #FFF5E1;
  }
+
+ .ourServices {
+    margin-top: 15vh;
+    text-align: center;
+ }
+
+.serviceBlocks {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2vh;
+}
+
+.digitalMarketing {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    height: 10vh;
+    background-color: #F5A73F;
+    color: #FFF5E1;
+    border-radius: 1.5vh;
+}
+
+.socialMediaMarketing {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    height: 10vh;
+    background-color: #F5A73F;
+    color: #FFF5E1;
+    border-radius: 1.5vh;
+}
+
+.brandingWebsiteDevelopment {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    height: 10vh;
+    background-color: #F5A73F;
+    color: #FFF5E1;
+    border-radius: 1.5vh;
+}
