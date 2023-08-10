@@ -24,6 +24,7 @@ section {
 
 .one {
   background-color: #373636;
+  justify-content: center;
 }
 
 .two {
@@ -66,4 +67,28 @@ section {
 
  ::-webkit-scrollbar {
     width: 0%;
+ }
+
+ .picture {
+    height: 60vh;
+    border-radius: 25px;
+ }
+
+ .heroSection {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+ 
+ .heroHalfOne {
+    width: 50%;
+    float: left;
+ }
+
+ .heroHalfTwo {
+    width: 50%;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
  }
