@@ -119,3 +119,22 @@ section {
     font-weight: bolder;
     letter-spacing: 0.1vh;
  }
+
+ .nsvp{
+    text-align: center;
+}
+
+ .nsvpHeader {
+    font-size: 3vh;
+    color: #FFF5E1;
+    margin-bottom: 2vh;
+ }
+
+ .promise {
+    color: #F5A73F;
+ }
+
+ .nsvpSubtext {
+    font-size: 2vh;
+    color: #FFF5E1;
+ }
