@@ -64,3 +64,6 @@ section {
     font-family: 'Merriweather', serif;
  }
 
+ ::-webkit-scrollbar {
+    width: 0%;
+ }
