@@ -88,7 +88,7 @@ section {
  }
 
  .heroHalfTwo {
-    width: 78%;
+    width: 90%;
     float: right;
     display: flex;
     justify-content: center;
@@ -105,13 +105,17 @@ section {
  .subtext p {
     color:#FFF5E1;
     font-size: 2.5vh;
-    margin-top: 2vh;
-    margin-bottom: 3vh;
+    margin-top: 3vh;
+    margin-bottom: 5vh;
  }
 
  .callToAction {
     text-decoration: none;
     color: #FFF5E1;
     font-size: 3vh;
-    
+    background-color: #F5A73F;
+    padding: 1vh;
+    border-radius: 15px;
+    font-weight: bolder;
+    letter-spacing: 0.1vh;
  }
