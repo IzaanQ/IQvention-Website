@@ -81,12 +81,13 @@ section {
  }
  
  .heroHalfOne {
-    width: 50%;
+    width: 70%;
     float: left;
+    
  }
 
  .heroHalfTwo {
-    width: 50%;
+    width: 30%;
     float: right;
     display: flex;
     justify-content: center;
