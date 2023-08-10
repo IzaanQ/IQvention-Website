@@ -83,13 +83,35 @@ section {
  .heroHalfOne {
     width: 70%;
     float: left;
-    
+    padding-left: 15%;
+    padding-top: none;
  }
 
  .heroHalfTwo {
-    width: 30%;
+    width: 78%;
     float: right;
     display: flex;
     justify-content: center;
     align-items: center;
+ }
+
+ .header h1 {
+    color: #FFF5E1;
+    font-size: 4vh;
+    line-height: 6vh;
+    letter-spacing: 0.1vh;
+ }
+
+ .subtext p {
+    color:#FFF5E1;
+    font-size: 2.5vh;
+    margin-top: 2vh;
+    margin-bottom: 3vh;
+ }
+
+ .callToAction {
+    text-decoration: none;
+    color: #FFF5E1;
+    font-size: 3vh;
+    
  }
