@@ -7,11 +7,17 @@
   font-family: "Poppins", sans-serif;
 }
 
+.container {
+  scroll-snap-type: y mandatory;
+  overflow-y: scroll;
+}
+
 section {
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
+  scroll-snap-align: start;
 }
 
 .one {
@@ -27,5 +33,10 @@ section {
 }
 
 .four {
-    background-color: aquamarine;
+  background-color: aquamarine;
+}
+
+h1 {
+  color: white;
+  text-shadow: 1px 1px 4px #000;
 }
